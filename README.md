@@ -1,1 +1,1 @@
-# Yandex-Internship
+# Yandex QA Internship
